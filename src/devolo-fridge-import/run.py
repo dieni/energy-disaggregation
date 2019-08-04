@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 # Read data from file 'fridge.csv'
 
 # Control delimiters, rows, column names with read_csv (see later)
-fridge_data = pd.read_csv("fridge.csv", delimiter=';',
+fridge_data = pd.read_csv("../data/fridge.csv", delimiter=';',
                           encoding='utf-8', header=0)
 
 # remove the W from the consumption value
