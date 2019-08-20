@@ -2,7 +2,7 @@
 A tailored energy saving recommendation web service using disaggregation methods on smartmeter data.
 
 # Introduction
-Below are some guidelines for working together on this project and instructions for running the project on your computer.
+Below are some guidelines for working together on this project and instructions for running the project on your computer. IMPORTANT: All memebers should post here some guidelines on how to make their code running.
 
 ## Git Guidelines/Procedure for Development
 For the first time you will have to clone the git project to your local filesystem by using "git clone git@github.com:dieni/energy.git". If you have done it already just proceed to the next steps. 
