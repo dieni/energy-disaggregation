@@ -1,10 +1,10 @@
 # energy
 A tailored energy saving recommendation web service using disaggregation methods on smartmeter data.
 
-#Introduction
+# Introduction
 Below are some guidelines for working together on this project and instructions for running the project on your computer.
 
-##Git Guidelines/Procedure for Development
+## Git Guidelines/Procedure for Development
 1. Use the already created branch for your feature by using "git checkout your_feature_branch_name"
 2. After you have written your code and tested it do the following: 
   a."git add." (adds all files to the stage)
