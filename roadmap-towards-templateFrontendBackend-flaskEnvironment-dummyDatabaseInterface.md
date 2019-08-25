@@ -27,5 +27,5 @@ Goal is to analyse how the backend interacts with the frontend (React), to set u
 
 ### Run Applikation
 1. activate frontend: C:\Users\Ifangelium\workspace-pycharm\ML-React-App-Template\ui>serve -s build -l 3000 -> frontend active!
-2. activate virtualenvironment -> press "activate" in Script folder (C:\Users\Ifangelium\workspace-pycharm\ML-React-App-Template\~\vre\Scripts) -> virtualenvironment active
+2. activate virtualenvironment -> press "activate" in Script folder (C:\Users\Ifangelium\workspace-pycharm\ML-React-App-Template\\~\vre\Scripts) -> virtualenvironment active
 3. activate backend: - run py -> service folder -> press "flask run" (C:\Users\Ifangelium\workspace-pycharm\ML-React-App-Template\service) -> backend active
