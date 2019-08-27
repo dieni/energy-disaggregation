@@ -1,0 +1,40 @@
+.bg {
+    
+    background-color: #F0B823;
+    /* background-repeat: no-repeat; */
+    /* display: flex; */
+    /* flex-direction: 'row'; */
+    /* height: 700px; */
+    /* justify-content: flex-end; */
+    /* align-items: center; */
+
+   
+    /* justify-content: flex-end; */
+
+
+    /* background-size: cover; */
+    width: 100%; 
+    position: fixed; 
+    height: 100%; 
+    /* margin-left: 0;  */
+    /* margin-right: auto; */
+    /* justify-content: center; */
+   
+
+}
+
+
+/* .cent { */
+    /* display: block; */
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    /* text-align: center; */
+    /* position: fixed; */
+    /* top: 30%; */
+    /* left: 7%; */
+    /* align-items: center; */
+    /* margin-left: "auto"; */
+    /* margin-right: "auto"; */
+    /* display: flex; */
+    /* align-content: center; */
+/* }  */

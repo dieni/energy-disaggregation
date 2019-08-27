@@ -1,0 +1,13 @@
+.greetinfo {
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    display: block;
+    color: #606060;
+    /* line-height: 8; */
+    font-family: 'Source Sans Pro', sans-serif;
+    position: absolute;
+    left: 15px;
+    top: 375px;
+    
+}

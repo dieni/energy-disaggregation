@@ -1,0 +1,28 @@
+
+.bckg {
+    
+    background-color: #F0B823;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    width: 100%;
+    position: fixed; 
+    height: 100%; 
+    /* margin-left: 0;  */
+    /* margin-right: auto;  */
+    justify-content: center; 
+
+}
+
+
+.ctr {
+    /* display: block; */
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    /* position: fixed; */
+    /* top: 50%; */
+    /* left: 25%; */
+    justify-content: center; 
+
+
+}
