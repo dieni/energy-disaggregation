@@ -5,14 +5,14 @@ The implemented features are based on the needs of the user and can be changed o
 The frontend is based upon a web-app.
 
 # TOOL
--React
+- React
 
 # HOWTO
 
--Clone the project
+- Clone the project
 
--open command line/terminal
+- open command line/terminal
 
--npm start
+- npm start
 
--open localhost:3000
+- open localhost:3000
