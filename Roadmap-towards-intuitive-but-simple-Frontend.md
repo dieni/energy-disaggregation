@@ -10,12 +10,12 @@
 - create a consistent corporate design 
 - implement the cp 
 
-# TOOL
+# TOOLS
 - React
 - Semantic UI 
 - various other React addons
 
-# HOWTO
+# HOWTOUSE
 
 - clone the project
 - (install node.js https://nodejs.org/en/)
