@@ -15,7 +15,7 @@
 - Semantic UI 
 - various other React addons
 
-# HOWTOUSE
+# HOWTO
 
 - clone the project
 - (install node.js https://nodejs.org/en/)
