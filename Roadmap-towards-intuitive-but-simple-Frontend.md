@@ -9,7 +9,7 @@
 
 # HOWTO
 
-- Clone the project
+- clone the project
 
 - open command line/terminal
 
